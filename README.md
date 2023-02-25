@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bruno C. Castro Alves.
 - 👀 I’m interested in a new job (currently a civil engineer in one of the largest government companies in Brazil).
-- 🌱 I’m currently learning Python and C/C++.
+- 🌱 I’m currently learning Python and C++.
 - 💞️ I’m looking to collaborate on any exciting project, especially in data analysis.
 - 📫 How to reach me: @bcastroalves (Twitter) or bruno.costa.castro.alves (at) gmail.com.
 
